@@ -82,7 +82,9 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 ## 🤖 Inteligencia Artificial y Machine Learning
 
-- [ ] **Python para Data Science** - NumPy, Pandas y Matplotlib
+📖 **[Tutorial Completo de Python para Data Science](inteligencia-artificial-ml/python-data-science.md)** - NumPy, Pandas, Matplotlib, Seaborn y Scikit-learn
+
+- [x] **Python para Data Science** - NumPy, Pandas y Matplotlib
 - [ ] **Machine Learning básico** - Scikit-learn y algoritmos fundamentales
 - [ ] **Redes neuronales** - TensorFlow y PyTorch
 - [ ] **Procesamiento de lenguaje natural (NLP)** - Análisis de texto
