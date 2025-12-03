@@ -63,7 +63,9 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 📖 **[Tutorial Completo de Seguridad Informática](docs/seguridad-informatica.md)**
 
-- [ ] **Ciberseguridad básica** - Conceptos y amenazas comunes
+📖 **[Tutorial de Ciberseguridad Básica](ciberseguridad/tutorial-ciberseguridad-basica.md)** - Guía práctica para proteger tus datos, dispositivos y privacidad
+
+- [x] **Ciberseguridad básica** - Conceptos y amenazas comunes
 - [ ] **Criptografía** - Cifrado, hashing y certificados
 - [ ] **Hacking ético** - Introducción a pentesting
 - [ ] **OWASP Top 10** - Vulnerabilidades web más comunes
