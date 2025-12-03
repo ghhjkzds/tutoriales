@@ -47,6 +47,8 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 ## 🌍 Redes y Sistemas
 
+📖 **[Tutorial Completo de Networking y Sistemas](docs/networking-y-sistemas.md)**
+
 - [ ] **Fundamentos de redes** - TCP/IP, DNS, HTTP/HTTPS
 - [ ] **Configuración de servidores** - Apache, Nginx y hosting
 - [ ] **SSH y seguridad** - Conexiones seguras y buenas prácticas
@@ -56,6 +58,8 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 ---
 
 ## 🔐 Seguridad Informática
+
+📖 **[Tutorial Completo de Seguridad Informática](docs/seguridad-informatica.md)**
 
 - [ ] **Ciberseguridad básica** - Conceptos y amenazas comunes
 - [ ] **Criptografía** - Cifrado, hashing y certificados
