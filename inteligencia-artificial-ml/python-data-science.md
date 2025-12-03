@@ -565,7 +565,12 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # 1. Cargar datos
-df = pd.read_csv('dataset.csv')
+# Opción A: Cargar tu propio dataset
+# df = pd.read_csv('dataset.csv')
+
+# Opción B: Usar un dataset de ejemplo de seaborn
+df = sns.load_dataset('tips')  # Dataset de propinas en restaurante
+# Otros datasets disponibles: 'iris', 'titanic', 'diamonds', 'penguins'
 
 # 2. Primera inspección
 print("="*50)
