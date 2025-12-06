@@ -3,30 +3,30 @@
 A continuación encontrarás un tutorial completo de Angular, pensado para personas de nivel principiante a intermedio. Está organizado en módulos progresivos con explicaciones, ejemplos, ejercicios y buenas prácticas. Puedes seguirlo desde cero y avanzar por secciones. Al final se incluye un mini-proyecto guiado y recomendaciones para testing, rendimiento y despliegue.
 
 ## Índice
-- Prerrequisitos
-- Introducción a Angular
-- Preparación del entorno
-- Angular CLI y estructura de un proyecto
-- TypeScript para Angular (lo esencial)
-- Componentes y plantillas
-- Data binding y eventos
-- Directivas estructurales y de atributo
-- Pipes
-- Servicios, inyección de dependencias y separación de responsabilidades
-- HTTPClient y consumo de APIs
-- Routing: navegación, parámetros y lazy loading
-- Formularios: Template-driven y Reactive Forms
-- RxJS y patrones reactivos
-- Interceptores, Guards y resolvers
-- Módulos vs Standalone Components (Angular moderno)
-- Estado y comunicación entre componentes
-- Testing básico (unitario y de integración)
-- Estilos, theming y librerías UI
-- Performance y buenas prácticas
-- Internacionalización (i18n) básica
-- Despliegue (Vercel, Netlify, Firebase, GitHub Pages)
-- Mini-proyecto: “Lista de Tareas con API”
-- Recursos y próximos pasos
+- [Prerrequisitos](#prerrequisitos)
+- [Introducción a Angular](#introducción-a-angular)
+- [Preparación del entorno](#preparación-del-entorno)
+- [Angular CLI y estructura de un proyecto](#angular-cli-y-estructura-de-un-proyecto)
+- [TypeScript para Angular (lo esencial)](#typescript-para-angular-lo-esencial)
+- [Componentes y plantillas](#componentes-y-plantillas)
+- [Data binding y eventos](#data-binding-y-eventos)
+- [Directivas estructurales y de atributo](#directivas-estructurales-y-de-atributo)
+- [Pipes](#pipes)
+- [Servicios, inyección de dependencias y separación de responsabilidades](#servicios-inyección-de-dependencias-y-separación-de-responsabilidades)
+- [HTTPClient y consumo de APIs](#httpclient-y-consumo-de-apis)
+- [Routing: navegación, parámetros y lazy loading](#routing-navegación-parámetros-y-lazy-loading)
+- [Formularios: Template-driven y Reactive Forms](#formularios-template-driven-y-reactive-forms)
+- [RxJS y patrones reactivos](#rxjs-y-patrones-reactivos)
+- [Interceptores, Guards y Resolvers](#interceptores-guards-y-resolvers)
+- [Módulos vs Standalone Components (Angular moderno)](#módulos-vs-standalone-components-angular-moderno)
+- [Estado y comunicación entre componentes](#estado-y-comunicación-entre-componentes)
+- [Testing básico (unitario y de integración)](#testing-básico-unitario-y-de-integración)
+- [Estilos, theming y librerías UI](#estilos-theming-y-librerías-ui)
+- [Performance y buenas prácticas](#performance-y-buenas-prácticas)
+- [Internacionalización (i18n) básica](#internacionalización-i18n-básica)
+- [Despliegue (Vercel, Netlify, Firebase, GitHub Pages)](#despliegue-vercel-netlify-firebase-github-pages)
+- [Mini-proyecto: “Lista de Tareas con API”](#mini-proyecto-lista-de-tareas-con-api)
+- [Recursos y próximos pasos](#recursos-y-próximos-pasos)
 
 ---
 
