@@ -25,6 +25,17 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 ---
 
+## 🚀 Tecnología e Innovación
+
+📖 **[Interfaces de Usuario para Web3 y Descentralización](tecnologia_innovacion.md)** - Blockchain, Carteras Digitales, dApps y desafíos de diseño en Web3
+
+- [x] **Web3 y Blockchain** - Conceptos fundamentales de descentralización
+- [x] **Carteras Digitales** - Diseño de wallets y gestión de claves
+- [x] **dApps** - Aplicaciones descentralizadas y contratos inteligentes
+- [x] **Desafíos de Diseño** - Seguridad, confirmaciones y acciones irreversibles
+
+---
+
 ## 🗄️ Bases de Datos
 
 - [ ] **SQL básico** - SELECT, INSERT, UPDATE, DELETE y JOINs
