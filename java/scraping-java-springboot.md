@@ -2201,7 +2201,7 @@ public class Ejercicio5_MonitorPrecios {
         log.warn("   URL: {}", url);
         log.warn("   Precio anterior: £{}", anterior);
         log.warn("   Precio actual: £{}", actual);
-        log.warn("   Reducción: {:.1f}%", cambio);
+        log.warn("   Reducción: {}%", String.format("%.1f", cambio));
     }
 }
 ```

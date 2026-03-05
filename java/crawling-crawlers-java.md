@@ -2137,7 +2137,7 @@ public class Ejercicio3_DeteccionCambios {
     }
 
     static String calcularHash(String contenido) throws Exception {
-        MessageDigest md = MessageDigest.getInstance("MD5");
+        MessageDigest md = MessageDigest.getInstance("SHA-256");
         byte[] hash = md.digest(contenido.getBytes());
         return HexFormat.of().formatHex(hash);
     }
