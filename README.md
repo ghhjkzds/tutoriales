@@ -104,6 +104,17 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 ---
 
+## ☕ Java y Spring Boot
+
+📖 **[Tutorial Completo de Web Scraping en Java con Spring Boot](java/scraping-java-springboot.md)** - Jsoup, Selenium, Playwright, scraping paralelo, exportación de datos y ejercicios resueltos
+
+📖 **[Tutorial Completo de Web Crawling y Crawlers en Java](java/crawling-crawlers-java.md)** - Arquitectura de crawlers, frontier, robots.txt, Crawl4j, indexación con Lucene y motor de búsqueda
+
+- [x] **Web Scraping con Spring Boot** - Jsoup, Selenium, páginas dinámicas, rate limiting
+- [x] **Web Crawling con Spring Boot** - BFS/DFS, frontier, multihilo, Apache Lucene
+
+---
+
 ## 🛠️ Proyectos Prácticos
 
 - [ ] **Portfolio personal** - Crea tu sitio web profesional
