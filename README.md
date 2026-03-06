@@ -49,6 +49,15 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 ---
 
+## 🖥️ Windows, CMD y PowerShell
+
+📖 **[Tutorial de Windows, CMD y PowerShell](windows/tutorial-windows-cmd.md)** - Interfaz gráfica, atajos, símbolo del sistema, comandos esenciales, PowerShell y automatización con scripts
+
+- [x] **Windows y CMD** - Escritorio, explorador de archivos y símbolo del sistema
+- [x] **PowerShell** - Cmdlets, scripting y administración del sistema
+
+---
+
 ## 🌍 Redes y Sistemas
 
 📖 **[Tutorial Completo de Networking y Sistemas](docs/networking-y-sistemas.md)**
