@@ -37,8 +37,10 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 ## 🔧 DevOps y Herramientas
 
+📖 **[Tutorial Completo de Docker](docker/docker-tutorial.md)** - Contenedores, imágenes, Dockerfile, Docker Compose, redes, volúmenes, multi-stage builds y proyectos prácticos
+
 - [ ] **Git y GitHub** - Control de versiones y colaboración
-- [ ] **Docker** - Contenedores y orquestación básica
+- [x] **Docker** - Contenedores y orquestación básica
 - [ ] **Linux/Bash** - Comandos esenciales y scripting
 - [ ] **CI/CD** - GitHub Actions, Jenkins y pipelines de despliegue
 - [ ] **Kubernetes básico** - Orquestación de contenedores
