@@ -39,7 +39,9 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 📖 **[Tutorial Completo de Docker](docker/docker-tutorial.md)** - Contenedores, imágenes, Dockerfile, Docker Compose, redes, volúmenes, multi-stage builds y proyectos prácticos
 
-- [ ] **Git y GitHub** - Control de versiones y colaboración
+📖 **[Tutorial Completo de Git y GitHub](git/git-github-tutorial.md)** - Control de versiones, ramas, GitHub, Pull Requests, flujos de trabajo colaborativos y GitHub Actions
+
+- [x] **Git y GitHub** - Control de versiones y colaboración
 - [x] **Docker** - Contenedores y orquestación básica
 - [ ] **Linux/Bash** - Comandos esenciales y scripting
 - [ ] **CI/CD** - GitHub Actions, Jenkins y pipelines de despliegue
