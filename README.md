@@ -41,9 +41,11 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 📖 **[Tutorial Completo de Git y GitHub](git/git-github-tutorial.md)** - Control de versiones, ramas, GitHub, Pull Requests, flujos de trabajo colaborativos y GitHub Actions
 
+📖 **[Tutorial Completo de Linux y Bash](linux/linux-tutorial.md)** - Sistema de archivos, comandos esenciales, permisos, scripting, SSH, cron y proyecto práctico de administración
+
 - [x] **Git y GitHub** - Control de versiones y colaboración
 - [x] **Docker** - Contenedores y orquestación básica
-- [ ] **Linux/Bash** - Comandos esenciales y scripting
+- [x] **Linux/Bash** - Comandos esenciales y scripting
 - [ ] **CI/CD** - GitHub Actions, Jenkins y pipelines de despliegue
 - [ ] **Kubernetes básico** - Orquestación de contenedores
 
