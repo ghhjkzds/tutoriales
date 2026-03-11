@@ -20,7 +20,10 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 - [ ] **React.js** - Componentes, hooks y gestión de estado
 - [ ] **Vue.js** - Framework progresivo para interfaces de usuario
 - [ ] **Node.js y Express** - Desarrollo backend con JavaScript
-- [ ] **APIs REST** - Diseño, implementación y documentación
+- [x] **APIs REST** - Diseño, implementación y documentación
+
+📖 **[Guía Completa de Swagger y OpenAPI](swagger/swagger-tutorial.md)** - Especificación OpenAPI 3.0, Swagger UI, integración con Spring Boot, generación de código y proyecto completo de API de tareas
+
 - [ ] **GraphQL** - Alternativa moderna a REST
 
 ---
