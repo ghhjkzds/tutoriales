@@ -111,12 +111,15 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 📖 **[Tutorial Completo de Ollama](inteligencia-artificial-ml/ollama-tutorial.md)** - Modelos de lenguaje locales, API REST, integración en proyectos, RAG, tool calling y más
 
+📖 **[Guía Completa de LLMs: Comparación e Implementación](inteligencia-artificial-ml/guia-llms-comparacion.md)** - Comparación objetiva de GPT-4o, Claude, Gemini, Llama, Mistral y más; cómo implementar chatbots, generación de imágenes, resúmenes y podcasts en tu app
+
 - [x] **Python para Data Science** - NumPy, Pandas y Matplotlib
 - [ ] **Machine Learning básico** - Scikit-learn y algoritmos fundamentales
 - [ ] **Redes neuronales** - TensorFlow y PyTorch
 - [ ] **Procesamiento de lenguaje natural (NLP)** - Análisis de texto
 - [ ] **Visión por computador** - OpenCV y reconocimiento de imágenes
 - [x] **Ollama - LLMs locales** - Instalación, modelos, API, RAG y proyectos prácticos
+- [x] **LLMs: Comparación e Implementación** - GPT-4o, Claude, Gemini, Llama; chatbots, imágenes, resúmenes y podcasts
 
 ---
 
