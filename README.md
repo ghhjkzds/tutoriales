@@ -141,6 +141,18 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 ---
 
+## 🧪 Testing y Calidad de Software
+
+📖 **[Tutorial Completo de Testing en Aplicaciones](testing/testing-tutorial.md)** - Pruebas unitarias, de integración y E2E con ejemplos en Spring Boot (JUnit 5, Mockito, MockMvc, @DataJpaTest), Python (pytest, unittest) y Go (testing, testify, table-driven tests, fuzz testing)
+
+- [x] **Testing con Spring Boot** - JUnit 5, Mockito, @WebMvcTest, @DataJpaTest, @SpringBootTest, WireMock
+- [x] **Testing con Python** - pytest, unittest, fixtures, mocking, FastAPI TestClient, Django TestCase
+- [x] **Testing con Go** - paquete testing, subtests, table-driven tests, testify, benchmarks, fuzz testing
+- [x] **Cobertura de código** - JaCoCo, pytest-cov, go cover
+- [x] **Testing en CI/CD** - GitHub Actions para Java, Python y Go
+
+---
+
 ## 🛠️ Proyectos Prácticos
 
 - [ ] **Portfolio personal** - Crea tu sitio web profesional
