@@ -49,7 +49,10 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 - [x] **Git y GitHub** - Control de versiones y colaboración
 - [x] **Docker** - Contenedores y orquestación básica
 - [x] **Linux/Bash** - Comandos esenciales y scripting
-- [ ] **CI/CD** - GitHub Actions, Jenkins y pipelines de despliegue
+- [x] **CI/CD y Deployment** - Deploy de backend y frontend, herramientas y buenas prácticas
+
+📖 **[Guía Completa de Deployment de Aplicaciones](deployment/deployment-tutorial.md)** - Deploy de backend (Railway, Render, Heroku, VPS) y frontend (Vercel, Netlify, GitHub Pages, Cloudflare Pages), CI/CD y proyecto práctico full-stack
+
 - [ ] **Kubernetes básico** - Orquestación de contenedores
 
 ---
