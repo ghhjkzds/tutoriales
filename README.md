@@ -86,10 +86,12 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 📖 **[Tutorial de Ciberseguridad Básica](ciberseguridad/tutorial-ciberseguridad-basica.md)** - Guía práctica para proteger tus datos, dispositivos y privacidad
 
+📖 **[Guía Completa de Pentesting](ciberseguridad/guia-pentesting.md)** - Metodología, herramientas, OWASP Top 10, análisis de código, seguridad en APIs y checklist de seguridad para proyectos
+
 - [x] **Ciberseguridad básica** - Conceptos y amenazas comunes
 - [ ] **Criptografía** - Cifrado, hashing y certificados
-- [ ] **Hacking ético** - Introducción a pentesting
-- [ ] **OWASP Top 10** - Vulnerabilidades web más comunes
+- [x] **Hacking ético** - Introducción a pentesting y búsqueda de vulnerabilidades
+- [x] **OWASP Top 10** - Vulnerabilidades web más comunes
 - [ ] **Autenticación y autorización** - OAuth, JWT y SSO
 
 ---
