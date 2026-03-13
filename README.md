@@ -11,6 +11,9 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 - [ ] **JavaScript desde cero** - Sintaxis, DOM y eventos
 - [ ] **C/C++ para principiantes** - Punteros, memoria y estructuras de datos
 - [ ] **Programación funcional** - Conceptos básicos con Haskell o Scala
+- [x] **Go (Golang)** - De básico a experto: tipos, concurrencia, interfaces, generics y APIs REST
+
+📖 **[Guía Completa de Go (Golang)](golang/golang-tutorial.md)** - Variables, funciones, structs, interfaces, goroutines, channels, context, generics, testing, HTTP, patrones de diseño y proyecto completo de API REST
 
 ---
 
