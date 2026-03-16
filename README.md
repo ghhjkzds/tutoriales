@@ -56,6 +56,8 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 📖 **[Guía Completa de Deployment de Aplicaciones](deployment/deployment-tutorial.md)** - Deploy de backend (Railway, Render, Heroku, VPS) y frontend (Vercel, Netlify, GitHub Pages, Cloudflare Pages), CI/CD y proyecto práctico full-stack
 
+📖 **[Guía Completa de Deploy con Railway](deployment/railway-guia-completa.md)** - Tutorial detallado de Railway: deploy de Node.js, Python, Java y Go; PostgreSQL integrado, variables de entorno, dominios, CLI, CI/CD con GitHub Actions, monitoreo y proyecto práctico API REST
+
 - [ ] **Kubernetes básico** - Orquestación de contenedores
 
 ---

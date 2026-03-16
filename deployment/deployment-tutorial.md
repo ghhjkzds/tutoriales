@@ -319,6 +319,8 @@ CMD ["java", "-jar", "app.jar"]
 
 #### 🚂 Railway
 
+> 📖 **¿Quieres una guía completa y detallada de Railway?** Consulta la **[Guía Completa de Deploy con Railway](./railway-guia-completa.md)**, que cubre Node.js, Python, Java y Go; bases de datos integradas, CLI, CI/CD con GitHub Actions y mucho más.
+
 **Railway** es una de las plataformas más sencillas y modernas para desplegar backends.
 
 | Característica | Detalle |
