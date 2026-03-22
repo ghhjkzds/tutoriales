@@ -77,9 +77,12 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 📖 **[Tutorial Avanzado de Redes](redes/tutorial-avanzado-redes.md)** - Diseño empresarial, enrutamiento avanzado, SDN y automatización
 
-- [ ] **Fundamentos de redes** - TCP/IP, DNS, HTTP/HTTPS
+📖 **[Guía Completa de DNS, Proxies, VPN, Tor, HTTPS y Privacidad en Redes](redes/dns-vpn-privacidad-seguridad.md)** - DNS seguro (DoH, DoT, DNSSEC), proxies, VPN con WireGuard, Tor, fingerprinting, modelo de amenazas, ataques reales y ejercicios prácticos por niveles
+
+- [x] **Fundamentos de redes** - TCP/IP, DNS, HTTP/HTTPS
 - [ ] **Configuración de servidores** - Apache, Nginx y hosting
 - [ ] **SSH y seguridad** - Conexiones seguras y buenas prácticas
+- [x] **Privacidad y anonimato en redes** - DNS, proxies, VPN, Tor, HTTPS, fingerprinting y modelo de amenazas
 - [ ] **Virtualización** - VirtualBox, VMware y máquinas virtuales
 - [ ] **Cloud Computing** - AWS, Azure o Google Cloud básico
 
