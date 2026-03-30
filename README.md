@@ -33,11 +33,14 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 ## 🗄️ Bases de Datos
 
+📖 **[Guía Completa de Flyway](java/flyway-guia-completa.md)** - Migraciones de base de datos con Flyway: nomenclatura, comandos, integración con Spring Boot, Maven, Gradle y Docker, callbacks, migraciones Java, buenas prácticas y proyecto práctico completo
+
 - [ ] **SQL básico** - SELECT, INSERT, UPDATE, DELETE y JOINs
 - [ ] **MySQL/PostgreSQL** - Instalación, configuración y administración
 - [ ] **MongoDB** - Bases de datos NoSQL orientadas a documentos
 - [ ] **Redis** - Caché y almacenamiento en memoria
 - [ ] **Diseño de bases de datos** - Normalización y modelado ER
+- [x] **Flyway** - Migraciones de base de datos versionadas con Spring Boot, Maven, Gradle y Docker
 
 ---
 
@@ -144,8 +147,11 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 📖 **[Tutorial Completo de Web Crawling y Crawlers en Java](java/crawling-crawlers-java.md)** - Arquitectura de crawlers, frontier, robots.txt, Crawl4j, indexación con Lucene y motor de búsqueda
 
+📖 **[Guía Completa de Flyway](java/flyway-guia-completa.md)** - Migraciones de base de datos versionadas: nomenclatura, comandos CLI, integración con Spring Boot/Maven/Gradle/Docker, callbacks, migraciones Java, buenas prácticas y proyecto práctico de tienda online
+
 - [x] **Web Scraping con Spring Boot** - Jsoup, Selenium, páginas dinámicas, rate limiting
 - [x] **Web Crawling con Spring Boot** - BFS/DFS, frontier, multihilo, Apache Lucene
+- [x] **Flyway con Spring Boot** - Migraciones versionadas, callbacks, CI/CD y proyecto completo
 
 ---
 
