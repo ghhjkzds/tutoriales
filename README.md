@@ -41,6 +41,14 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 ---
 
+## 📧 Email y Notificaciones
+
+📖 **[Tutorial Completo de Mailtrap](email/mailtrap-tutorial.md)** - Email testing con sandbox, integración con Node.js, Python, PHP, Java y Go; plantillas, API transaccional, CI/CD y buenas prácticas
+
+- [x] **Mailtrap** - Email testing (sandbox), envío transaccional, plantillas, webhooks y monitoreo
+
+---
+
 ## 🔧 DevOps y Herramientas
 
 📖 **[Tutorial Completo de Docker](docker/docker-tutorial.md)** - Contenedores, imágenes, Dockerfile, Docker Compose, redes, volúmenes, multi-stage builds y proyectos prácticos
