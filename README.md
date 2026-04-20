@@ -66,6 +66,10 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 📖 **[Guía Completa de Deploy con Railway](deployment/railway-guia-completa.md)** - Tutorial detallado de Railway: deploy de Node.js, Python, Java y Go; PostgreSQL integrado, variables de entorno, dominios, CLI, CI/CD con GitHub Actions, monitoreo y proyecto práctico API REST
 
+- [x] **Hosting y Deploy Casero** - Monta tu propio servidor en casa con Windows o Linux
+
+📖 **[Guía de Hosting y Deploy Casero](deployment/hosting-casero-tutorial.md)** - Usa tu propio PC como servidor: Nginx, PM2, Docker, port forwarding, DDNS, HTTPS con Let's Encrypt, Cloudflare Tunnel y proyecto práctico de API REST (Windows y Linux)
+
 - [ ] **Kubernetes básico** - Orquestación de contenedores
 
 ---
