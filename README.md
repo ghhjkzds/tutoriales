@@ -156,8 +156,11 @@ Bienvenido a este repositorio de tutoriales diseñado para estudiantes de inform
 
 📖 **[Tutorial Completo de Web Crawling y Crawlers en Java](java/crawling-crawlers-java.md)** - Arquitectura de crawlers, frontier, robots.txt, Crawl4j, indexación con Lucene y motor de búsqueda
 
+📖 **[Guía Completa de Thymeleaf](java/thymeleaf-tutorial.md)** - Motor de plantillas para Spring Boot: sintaxis, expresiones, iteraciones, formularios, fragmentos, layouts, i18n, Spring Security y proyecto completo de gestor de tareas
+
 - [x] **Web Scraping con Spring Boot** - Jsoup, Selenium, páginas dinámicas, rate limiting
 - [x] **Web Crawling con Spring Boot** - BFS/DFS, frontier, multihilo, Apache Lucene
+- [x] **Thymeleaf** - Natural Templating, th:each, th:if, formularios, fragmentos, layouts, i18n y Spring Security
 
 ---
 
